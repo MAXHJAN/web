@@ -1,3 +1,2 @@
-# web聊天室
+# web聊天
 使用WebSocket 编写的一个简单聊天室
-网址：http://www.mxhjan.com:8080/WebChat/
